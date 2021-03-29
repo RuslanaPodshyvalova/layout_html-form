@@ -1,7 +1,12 @@
 .info__section {
-  margin: 20px 0;
+  padding-bottom: 0;
+  margin-bottom: 10px;
 }
 
-.line {
-  margin: 10px 0;
+.field {
+  margin-bottom: 10px;
+}
+
+#age {
+  width: 60px;
 }
